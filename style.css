@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+header{
+    margin-top: 47px;
+    margin-left: 42px;
+    margin-right: 32px;
+    cursor: pointer
+}
+.link-menu{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    color: #17233D;
+    margin-right: 32px;
+
+    
+}
+.button-signup{
+    width: 124px;
+    height: 51px;
+    top: 32px;
+    left: 420px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgb(255, 255, 255);
+    background-color:#6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 5px;
+    cursor: pointer;
+    letter-spacing: 1px;
+
+}
+img{
+    width: 595.18px;
+    height: 500px;
+    top: 246px;
+    left: 121px;
+    margin: 246px 0 102px 121px;
+    display: inline-block;
+
+    
+}
+h1{
+    
+    font-weight: 900;
+    font-size: 62px;
+    line-height: 82px;
+    color:#161A49;
+    margin-top: 47px;
+    margin-bottom: 55px;
+    
+}
+p{
+    width: 493px;
+    height: 99px;
+    top: 553px;
+    left: 801px;
+}
+.learn{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #6FBF44;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    margin-top: 55px;
+}
+.conteudo-letter{
+  width: 493px;
+  margin-left: 84px;   
+  margin-right: 57px; 
+  display: inline-block;
+  }
